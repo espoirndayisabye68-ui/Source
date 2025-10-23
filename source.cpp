@@ -9,7 +9,7 @@
 using namespace std;
 
 int main() {
-	string name = "Hello World";
+	string name = "Hello Universe";
 
 	cout << name << endl;
 
